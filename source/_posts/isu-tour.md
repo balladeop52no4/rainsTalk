@@ -4,7 +4,7 @@ date: 2020-06-27 23:46:47
 tags:
 ---
 
-<img src="/images/isu_tour/image.png" alt="isu-tour-1" width="300" height="300">
+<img src="/images/isu_tour/image.png" alt="isu-tour-1" width="200" height="200">
 
 <p>三個從義守大學……喔不，其中一位只讀一年就奇蹟似地被二一</p>
 

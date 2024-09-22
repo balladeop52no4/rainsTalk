@@ -3,7 +3,7 @@ title: 節點
 date: 2021-07-17 12:45:58
 tags:
 ---
-<img src="/images/image.png" alt="ISU#_1" width="500" height="600">
+<img src="/images/image.png" alt="ISU#_1" width="400" height="400">
 
 <br>
 
