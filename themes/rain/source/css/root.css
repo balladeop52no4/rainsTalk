@@ -34,26 +34,28 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --font-color: #fff;
+    --font-color: #393737;
     --font-color-secondary: #cccccc;
-    --font-color-extra: #aaa;
+    --font-color-extra: #747070;
     --font-color-refer: #ccd0e0;
 
     --color-hr: #cccccc;
-    --color-link: #61AEEE;
-    --color-background: #3b3e4a;
+    --color-link: #1b2a36;
+    --color-background: #f5f0e6;
+    /*--color-background: #3b3e4a;*/
 
     /* 激活与未激活状态 */
     --color-unactive: #494949;
     --color-active: #eeeeee;
 
-    --color-list-item-even: #3b3e4a;
-    --color-list-item-odd: #383c48;
+    --color-list-item-even: #f5f0e6;;
+    --color-list-item-odd: #f5f0e6;;
 
     /* 文章颜色 */
-    --color-post-content: #fefefe;
+    --color-post-content: #4f4d4d;
     /* code 背景色 */
     --color-background-code: #292c34;
+    /*--color-background-code: #fff;*/
     --color-border-code: #292c34;
 
     --color-hashtag: #e9ebf1;
