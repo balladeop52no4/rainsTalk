@@ -3,6 +3,7 @@ title: passed
 date: 2021-04-30 16:28:05
 tags:
 ---
+<i>The grammar of the content has been corrected by GPT.</i>
 
 <img src="/images/passed1.png" alt="post" width="300" height="400">
 

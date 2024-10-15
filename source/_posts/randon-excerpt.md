@@ -3,6 +3,7 @@ title: randon_excerpt
 date: 2021-05-18 15:34:48
 tags:
 ---
+<i>The grammar of the content has been corrected by GPT.</i>
 
 <img src="/images/random-excrtpt/image.png" alt="post" width="300" height="400">
 <p>Not sure if it’s because it rained this afternoon,
