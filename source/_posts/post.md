@@ -9,7 +9,7 @@ tags:
 
 <br>
 
-<p>yesterday, after playing with friends at a store until it closed, we all went to a night market nearby for dinner. It was my first time there actually.</p>
+<p>Yesterday, after playing with friends at a store until it closed, we all went to a night market nearby for dinner. It was my first time there actually.</p>
 
 <p>A few years ago, when I lived near that area, I never visited because I didn’t like going to crowded places for no reason. I ended up living there for an entire year without ever going.</p>
 

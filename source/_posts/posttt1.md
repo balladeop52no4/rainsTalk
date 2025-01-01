@@ -5,6 +5,8 @@ tags:
 ---
 <i>The grammar of the content has been corrected by GPT.</i>
 
+
+<img src="/images/suit/suit_2.jpeg" alt="post" width="300" height="400">
 <p></p>
 
 
